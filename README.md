@@ -1,2 +1,2 @@
-# bh-docs.github.io
+# bh-docs
 BigHammer Product Documentation Page
